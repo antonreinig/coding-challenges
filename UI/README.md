@@ -1,12 +1,13 @@
-# Weather App
+# Companion App
 
-Design a weather dashboard on a smart device like smartphone or tablet. On start, the dashboard should build up from a blank page. Use micro animations to reveal the dashboard elements. Provide a point of interaction! By tapping on a content element, the user can enlarge and decrease further details about a specific information.
+Design a Porsche Taycan companion app for an iPhone according to the input you can find in this presentation:
+https://docs.google.com/presentation/d/1vSg0htmNM5mVmMgykdBw8tgcNhMwR2QARplBQRURXmo/edit?usp=sharing
 
 __Screens should include:__
-- location, date and time
-- the current & estimated temperature of the day
-- a wheather forecast for the following week
-- feel free to include more information
+- Dashboard
+- Charging station finder
+- Car finder
+- feel free to include more screens based on the use cases from the presentation
 
 ## Tooling
 

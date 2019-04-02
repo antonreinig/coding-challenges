@@ -1,13 +1,6 @@
 # Companion App
 
-Design a Porsche Taycan companion app for an iPhone according to the input you can find in this presentation:
-https://docs.google.com/presentation/d/1vSg0htmNM5mVmMgykdBw8tgcNhMwR2QARplBQRURXmo/edit?usp=sharing
-
-__Screens should include:__
-- Dashboard
-- Charging station finder
-- Car finder
-- feel free to include more screens based on the use cases from the presentation
+Design a Porsche Taycan companion app for an iPhone according to the input you can find in the presentation.
 
 ## Tooling
 
